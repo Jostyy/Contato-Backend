@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pRhLYmub64Me/QKp4efZ0n9fhfuBwY3wPXt35hrYH8ppb4XthEWMVE3SdJJtaycZKYno0PSQ3zp8Z18BhE8NrA==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\Desafio-Backend-Novaweb\\GerenciadorContato\\Contato.AcessodeDados\\Contato.AcessodeDados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
