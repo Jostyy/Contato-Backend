@@ -1,0 +1,12 @@
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\bin\Debug\net5.0\Contato.DataAccess.deps.json
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\bin\Debug\net5.0\Contato.DataAccess.dll
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\bin\Debug\net5.0\ref\Contato.DataAccess.dll
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\bin\Debug\net5.0\Contato.DataAccess.pdb
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\obj\Debug\net5.0\Contato.DataAccess.csprojAssemblyReference.cache
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\obj\Debug\net5.0\Contato.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\obj\Debug\net5.0\Contato.DataAccess.AssemblyInfoInputs.cache
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\obj\Debug\net5.0\Contato.DataAccess.AssemblyInfo.cs
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\obj\Debug\net5.0\Contato.DataAccess.csproj.CoreCompileInputs.cache
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\obj\Debug\net5.0\Contato.DataAccess.dll
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\obj\Debug\net5.0\ref\Contato.DataAccess.dll
+D:\repos\Contato-Backend\GerenciaContato\Contato.DataAccess\obj\Debug\net5.0\Contato.DataAccess.pdb
